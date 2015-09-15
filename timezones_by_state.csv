@@ -1,0 +1,40 @@
+STATE,TIMEZONE
+Maine,US/Eastern
+New Hampshire,US/Eastern
+Massachusetts,US/Eastern
+Rhode Island,US/Eastern
+Connecticut,US/Eastern
+New York,US/Eastern
+New Jersey,US/Eastern
+Delaware,US/Eastern
+Pennsylvania,US/Eastern
+Maryland,US/Eastern
+Virginia,US/Eastern
+Washington DC,US/Eastern
+North Carolina,US/Eastern
+South Carolina,US/Eastern
+Georgia,US/Eastern
+Florida,***
+Alabama,US/Central
+Mississippi,US/Central
+Louisiana,US/Central
+Texas,US/Central
+California,US/Pacific
+Oregon,US/Pacific
+Washington,US/Pacific
+Alaska,***
+Northern Marianas Islands,Pacific/Saipan
+Federated States of Micronesia,***
+Marshall Islands,Pacific/Majuro
+Hawaii,Pacific/Honolulu
+French Polynesia,***
+Cook Islands,Pacific/Rarotonga
+Tokelau,Pacific/Fakaofo
+American Samoa,US/Samoa
+Bermuda Islands,Atlantic/Bermuda
+Bahamas,America/Nassau
+Cuba,America/Havana
+Jamaica,America/Jamaica
+Haiti and Dominican Republic,America/Port-au-Prince
+Puerto Rico,America/Puerto_Rico
+Lesser Antilles and Virgin Islands,***
